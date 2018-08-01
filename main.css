@@ -1,0 +1,12 @@
+*{
+    display: block;
+}
+.masthead{
+    background-color: aqua;
+    width: 30%;
+    height: 7em;
+}
+
+.site-container{
+    margin-top: 7em;
+}
